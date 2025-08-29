@@ -1,6 +1,6 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (Replace above with your app's name)
+My New Machine LEarning APP Practise Board
 ```
 
 Description of the app ...
